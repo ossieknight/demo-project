@@ -1,4 +1,8 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 "make a 3rd change"
 =======
 >>>>>>> parent of acedd6d... new
+=======
+"make a change"
+>>>>>>> parent of f00b034... 2nd change
