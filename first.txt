@@ -1,1 +1,4 @@
-"make a 2nd change"
+<<<<<<< HEAD
+"make a 3rd change"
+=======
+>>>>>>> parent of acedd6d... new
